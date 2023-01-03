@@ -12,6 +12,13 @@ body {
     width: 150px;
 }
 
+.text1{
+    font-size: 15px;
+}
+.text2{
+    font-size: 12px;
+    
+}
 .card {
     width: 400px;
     margin: 0 auto;
@@ -21,7 +28,7 @@ body {
     text-align: center;
     background: #ccd5ae;
     color: #2b2839;
-    border-bottom: 6px solid #faedcd;
+    border: 6px solid #faedcd;
         
     /*
     Challenge:
